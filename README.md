@@ -6,5 +6,3 @@ team members :
 M.DEEPAN
 P.SRI RAGUL
 K.SUMAN
-R.ARIPRASATH
-A.SIVA
