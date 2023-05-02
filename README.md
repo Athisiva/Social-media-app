@@ -4,6 +4,6 @@ uploaded files for task 3
 project : Social media application
 
 team members :
-M.DEEPAN
-P.SRI RAGUL
-K.SUMAN
+A.SIVA 
+SAHAYA SAJAN JOSE
+ARIPRASANTH.R
